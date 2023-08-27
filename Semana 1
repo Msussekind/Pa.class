@@ -1,4 +1,4 @@
-    Trabalho PA Programação e Direito
+    Trabalho PA Programação e Direito 1
                                                                 Mariana Sussekind 
 
 Inteligência artificial- A inteligência artificial (IA) é um campo da ciência da computação que se concentra no desenvolvimento de sistemas e programas capazes de realizar tarefas que normalmente requerem inteligência humana. Essas tarefas incluem coleta e análise de informações, aprendizado, raciocínio, resolução de problemas, reconhecimento de padrões e tomada de decisões. A IA pode ser dividida em duas categorias principais: IA fraca (ou estreita) e IA forte (ou geral). A IA fraca é projetada para realizar tarefas específicas e limitadas, como reconhecimento de fala, recomendação de produtos ou diagnóstico médico. Já a IA forte visa simular a inteligência humana em sua totalidade, sendo capaz de compreender, aprender e executar uma ampla variedade de tarefas de forma autônoma. As técnicas de IA incluem aprendizado de máquina, onde os sistemas aprendem com dados e melhoram com a experiência; redes neurais artificiais, que modelam processos cognitivos humanos; processamento de linguagem natural, que permite a interação entre humanos e máquinas por meio da linguagem; visão computacional, que capacita as máquinas a interpretar e entender o mundo visual; e robótica, onde a IA é aplicada no controle e tomada de decisões de robôs. A IA tem aplicações em diversos setores, como saúde, finanças, transporte, manufatura, entretenimento e muito mais. Embora tenha avançado consideravelmente, a IA ainda enfrenta desafios em áreas como ética, viés algorítmico, privacidade e segurança.
@@ -38,7 +38,7 @@ Backup e Restauração: Sistemas de arquivos podem oferecer recursos de backup e
 Em resumo, um sistema de arquivos é a estrutura que permite a organização e o gerenciamento eficiente de arquivos em dispositivos de armazenamento, desempenhando um papel fundamental nos sistemas operacionais e na interação dos usuários com os dados.
 
 
-  Trabalho programação e direito
+  Trabalho programação e direito 2
                                                        Mariana Sussekind 
 
    “MPF investiga se algoritmo do INSS nega aposentadoria sem análise de mérito”
@@ -56,3 +56,53 @@ O sistema foi implementado com o objetivo de diminuir a fila e agilizar as respo
 Segundo o Código de Defesa do Consumidor, o consumidor possui o direito de ser informado o porque teve o seu crédito negado, independentemente do motivo, a negativa deve vir acompanhada de um motivo. 
 
 A análise de crédito pode sim utilizar algoritmos, de tal forma que a análise de créditos bancários, podem ser por meio de redes neurais artificiais. A Rede Neural Artificial simula o cérebro humano, combinando a ciência e a computação e estatística para resolver problemas comuns da área de IA. Podendo também ser usadas para a resolução da análise de créditos e assegurar os direitos dos consumidores, assegurados na CDC.  
+
+
+Trabalho PA Programação e direito 3 
+
+     a. a relação entre a LGPD e os data centers no brasil
+
+A LGPD estabelece, que não importa se a sede de uma organização ou o seu Data Center estão localizados no Brasil ou no exterior, ou ainda se os dados são tratados no meio físico ou nos digitais: todos estão sujeitos à regulação. Então, considerando-se que o Data Center do controlador é o local onde rodam os sistemas nos quais são instalados e mantidos os dados, é essa a estrutura que deve, prioritariamente, operar com base nos preceitos da LGPD.
+
+     b. formatos de arquivos de dados proprietários e abertos
+
+Os formatos proprietários representam a privatização da memória digital, padrões fechados. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
+
+      B1. exemplos de formatos proprietários e abertos:
+      
+      Proprietários:
+      DWG - AutoCad Drawing
+      SWF - Shockwave Flash
+      DOC - formato proprietário de texto
+      PPT - formato proprietário de apresentação de slides
+
+      Abertos: 
+      cSv
+      txt
+      PNg
+      JSoN
+      xmL
+      formatos odF; rdF
+
+     B2. discuta as implicações relacionadas a dados públicos 
+
+Dados públicos ou dados abertos são quando qualquer pessoa pode livremente acessá-los, utilizá-los, modificá-los e compartilhá-los para qualquer finalidade, estando sujeito a, no máximo, a exigências que visem preservar sua proveniência e sua abertura.
+
+São considerados os dados de interesse público aqueles que representam o interesse coletivo, por motivos de segurança ou prestação de contas à sociedade. Podem ser disponibilizados pelo próprio titular ou que estejam disponíveis para consulta por questões legais, como determinado pela LGPD.
+
+As principais fontes de dados públicos estão relacionadas a órgãos governamentais e também pela divulgação dos próprios usuários, como nas redes sociais. 
+
+     Como por exemplo:
+     - Receita Federal
+     - Portal da Transparência
+     - Diário Oficial da União (DOU)
+     - DataSUS
+     - IBGE
+     - IPEA DATA
+     - Google Trends
+     - Portal Brasileiro de Dados Abertos
+     - Notícias
+
+A consulta de dados públicos pode ser feita manualmente e, de maneira mais estratégica, através de plataformas que utilizam big data, tendo em vista que em muitos casos é necessário o processamento de grande volume de dados em diferentes tipos de operações, seja para o entendimento sobre o mercado como um todo ou análises de indivíduos ou CNPJ.
+
+
