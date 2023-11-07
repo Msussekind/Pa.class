@@ -105,4 +105,27 @@ As principais fontes de dados públicos estão relacionadas a órgãos govername
 
 A consulta de dados públicos pode ser feita manualmente e, de maneira mais estratégica, através de plataformas que utilizam big data, tendo em vista que em muitos casos é necessário o processamento de grande volume de dados em diferentes tipos de operações, seja para o entendimento sobre o mercado como um todo ou análises de indivíduos ou CNPJ.
 
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
 
+This is a temporary script file.
+"""
+
+def simples (cor):
+    if cor == 'azul':
+        return 'escolheu certo'
+    
+def medio (cor):
+    if cor == 'branco':
+        return 'escolheu certo'
+    else: 
+        return 'tente outra cor'
+    
+def completo (cor):
+    if cor == 'preto': 
+        return 'escolheu certo'
+    elif cor == 'amarelo': 
+        return 'não tem salvação'
+    else: 
+        return 'tente outra cor'
